@@ -1,0 +1,25 @@
+Sprawozdanie opisuje program wykonujący algorytm sortowania zewnętrznego
+
+- sortowanie ze scalaniem naturalnym
+- na 4 taśmach
+- w języku Java
+
+Skompilowany program uruchamiany jest z wiersza poleceń:
+
+java -jar sort.jar OPIS_WEJŚCIA [ WIELKOŚĆ_BUFORA ]
+
+gdzie OPIS_WEJŚCIA może być w formatach:
+
+F in out
+sortuje plik `in` i umieszcza wynik sortowania w pliku `out`
+
+K out
+sortuje listę ciągów wczytaną z klawiatury i umieszcza wynik w pliku `out`
+
+R ile out
+sortuje listę `ile`-elementową losowo wygenerowanych ciągów i umieszcza wynik w pliku `out`
+
+WIELKOŚĆ_BUFORA jest opcjonalna i określa ilość danych
+w bajtach wczytywana podczas jednej operacji. Ustawienie na 0
+wyłącza buforowanie programowe.
+Domyślnie przyjmowane jest 4096.
