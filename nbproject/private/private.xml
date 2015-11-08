@@ -3,11 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/milleniumbug/dokumenty/PROJEKTY/InDevelopment/SBD_01_SortowaniePolifazowe/src/sbd_01_sortowaniepolifazowe/CountedInputStream.java</file>
-            <file>file:/home/milleniumbug/dokumenty/PROJEKTY/InDevelopment/SBD_01_SortowaniePolifazowe/src/sbd_01_sortowaniepolifazowe/StreamUtils.java</file>
+            <file>file:/home/milleniumbug/dokumenty/PROJEKTY/InDevelopment/SBD_01_SortowaniePolifazowe/src/sbd_01_sortowaniepolifazowe/Tape.java</file>
+            <file>file:/home/milleniumbug/dokumenty/PROJEKTY/InDevelopment/SBD_01_SortowaniePolifazowe/src/sbd_01_sortowaniepolifazowe/TapeSentinel.java</file>
             <file>file:/home/milleniumbug/dokumenty/PROJEKTY/InDevelopment/SBD_01_SortowaniePolifazowe/src/sbd_01_sortowaniepolifazowe/SBD_01_SortowaniePolifazowe.java</file>
-            <file>file:/home/milleniumbug/dokumenty/PROJEKTY/InDevelopment/SBD_01_SortowaniePolifazowe/src/sbd_01_sortowaniepolifazowe/CountedOutputStream.java</file>
-            <file>file:/home/milleniumbug/dokumenty/PROJEKTY/InDevelopment/SBD_01_SortowaniePolifazowe/src/sbd_01_sortowaniepolifazowe/Fibonacci.java</file>
         </group>
     </open-files>
 </project-private>
