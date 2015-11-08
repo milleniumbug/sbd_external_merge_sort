@@ -27,12 +27,12 @@ public class CountedInputStream extends FilterInputStream
     @Override
     public int read() throws IOException {
         read_count++;
-        return super.read();
+        return in.read();
     }
 
     @Override
     public int read(byte[] b, int off, int len) throws IOException {
         read_count++;
-        return super.read(b, off, len);
+        return in.read(b, off, len);
     }
 }

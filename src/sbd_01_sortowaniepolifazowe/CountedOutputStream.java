@@ -20,13 +20,13 @@ public class CountedOutputStream extends FilterOutputStream {
     @Override
     public void write(int i) throws IOException {
         write_count++;
-        super.write(i);
+        out.write(i);
     }
 
     @Override
     public void write(byte[] b, int off, int len) throws IOException {
         write_count++;
-        super.write(b, off, len);
+        out.write(b, off, len);
     }
 
     public CountedOutputStream(OutputStream os) {
